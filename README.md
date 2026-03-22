@@ -101,7 +101,8 @@ If you find our paper of this resource helpful, please consider cite:
 
 ## 🌟 Libraries <a id="lib"></a>
 
-🔔 Please check out the papers by selecting the sub-area you are interested in. Within each sub-area, papers are organized according to our compression taxonomy. On this main page, only related surveys and papers released in the past six months are shown.
+🔔 Please check out the papers by selecting the sub-area you are interested in. Within each sub-area, papers are organized according to our compression taxonomy. The main page presents all survey papers, together with major conference papers from the past year and recently released papers within the last six months. Note that papers which have already been accepted are excluded from the recent papers.
+
 
 - [Awesome MLLM Compression](#awesome)
   - Image
@@ -120,6 +121,9 @@ If you find our paper of this resource helpful, please consider cite:
     - [3D Decoder (TODO)](https://github.com/EIT-NLP/Awesome-MLLM-Compression/blob/main/3d-decoder.md)
   - Omni
     - [Omni LLM (TODO)](https://github.com/EIT-NLP/Awesome-MLLM-Compression/blob/main/omni-llm.md)
+- [Survey](#survey)
+- [Recent Papers](#recent)
+- [Published in Recent Conferences](#conference)
 
 ### Survey
 | Title & Authors & Links | Date | Taxonomy | Highlight |
@@ -134,7 +138,7 @@ If you find our paper of this resource helpful, please consider cite:
 
 
 
-### Recent Papers (Last 6 Months)
+### Recent Papers (Last 6 Months) <a id="recent"></a>
 
 <!-- Image -->
 <details open>
@@ -196,7 +200,7 @@ If you find our paper of this resource helpful, please consider cite:
 </details>
 
 
-### Published in Recent Conferences (Last 12 months)
+### Published in Recent Conferences (Last 12 months) <a id="conference"></a>
 
 
 <!-- CVPR 2026 -->
