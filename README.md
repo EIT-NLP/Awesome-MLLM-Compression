@@ -104,17 +104,22 @@ If you find our paper of this resource helpful, please consider cite:
 🔔 Please check out the papers by selecting the sub-area you are interested in. Within each sub-area, papers are organized according to our compression taxonomy. On this main page, only related surveys and papers released in the past six months are shown.
 
 - [Awesome MLLM Compression](#awesome)
-  - [Image LLM (TODO)](https://github.com/EIT-NLP/Awesome-MLLM-Compression/blob/main/image-llm.md)
-  - [Video LLM (TODO)](https://github.com/EIT-NLP/Awesome-MLLM-Compression/blob/main/video-llm.md)
-  - [Audio LLM (TODO)](https://github.com/EIT-NLP/Awesome-MLLM-Compression/blob/main/audio-llm.md)
-  - [3D LLM (TODO)](https://github.com/EIT-NLP/Awesome-MLLM-Compression/blob/main/3d-llm.md)
-  - [Omni LLM (TODO)](https://github.com/EIT-NLP/Awesome-MLLM-Compression/blob/main/omni-llm.md)
-  - [Vision Encoder (TODO)](https://github.com/EIT-NLP/Awesome-MLLM-Compression/blob/main/vision-encoder.md)
-  - [Vision Decoder (TODO)](https://github.com/EIT-NLP/Awesome-MLLM-Compression/blob/main/vision-decoder.md)
-  - [Audio Encoder (TODO)](https://github.com/EIT-NLP/Awesome-MLLM-Compression/blob/main/audio-encoder.md)
-  - [Audio Decoder (TODO)](https://github.com/EIT-NLP/Awesome-MLLM-Compression/blob/main/audio-decoder.md)
-  - [3D Encoder (TODO)](https://github.com/EIT-NLP/Awesome-MLLM-Compression/blob/main/3d-encoder.md)
-  - [3D Decoder (TODO)](https://github.com/EIT-NLP/Awesome-MLLM-Compression/blob/main/3d-decoder.md)
+  - Image
+    - [Vision Encoder (TODO)](https://github.com/EIT-NLP/Awesome-MLLM-Compression/blob/main/vision-encoder.md)
+    - [Image LLM (TODO)](https://github.com/EIT-NLP/Awesome-MLLM-Compression/blob/main/image-llm.md)
+    - [Vision Decoder (TODO)](https://github.com/EIT-NLP/Awesome-MLLM-Compression/blob/main/vision-decoder.md)
+  - Video
+    - [Video LLM (TODO)](https://github.com/EIT-NLP/Awesome-MLLM-Compression/blob/main/video-llm.md)
+  - Audio
+    - [Audio Encoder (TODO)](https://github.com/EIT-NLP/Awesome-MLLM-Compression/blob/main/audio-encoder.md)
+    - [Audio LLM (TODO)](https://github.com/EIT-NLP/Awesome-MLLM-Compression/blob/main/audio-llm.md)
+    - [Audio Decoder (TODO)](https://github.com/EIT-NLP/Awesome-MLLM-Compression/blob/main/audio-decoder.md)
+  - 3D
+    - [3D Encoder (TODO)](https://github.com/EIT-NLP/Awesome-MLLM-Compression/blob/main/3d-encoder.md)
+    - [3D LLM (TODO)](https://github.com/EIT-NLP/Awesome-MLLM-Compression/blob/main/3d-llm.md)
+    - [3D Decoder (TODO)](https://github.com/EIT-NLP/Awesome-MLLM-Compression/blob/main/3d-decoder.md)
+  - Omni
+    - [Omni LLM (TODO)](https://github.com/EIT-NLP/Awesome-MLLM-Compression/blob/main/omni-llm.md)
 
 ### Survey
 | Title & Authors & Links | Date | Taxonomy | Highlight |
